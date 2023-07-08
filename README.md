@@ -1,5 +1,3 @@
 ### Hi there 👋
 
-
-<!-- BLOG-POST-LIST:START --> 
-<!-- BLOG-POST-LIST:END -->
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Akshay's Dev Card"/></a>
