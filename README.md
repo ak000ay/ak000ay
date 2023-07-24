@@ -1,7 +1,6 @@
 
 # Akshay K
-Currently Working in as Module Lead in Software Company
-
+Currently Working in as Module Lead in a Startup Company
 ## 🚀 About Me
 I'm a software engineer with 6 years experience in front end technolgies.
 
